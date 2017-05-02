@@ -1,0 +1,74 @@
+baseurl = "http://aquaponie.syx.fr"
+title = "Aquaponie"
+theme = "blackburn"
+languageCode = "en-us"
+author = "Julien Syx"
+publishDir = "docs"
+
+# Shown in the side menu
+copyright = '<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/3.0/80x15.png" /></a>'
+canonifyurls = true
+paginate = 10
+
+[indexes]
+  tag = "tags"
+  topic = "topics"
+
+[params]
+  # Shown in the home page
+  subtitle = "Les petits poissons, dans l'eau ..."
+  brand = "Blackburn"
+  googleAnalytics = "Your Google Analytics tracking ID"
+  disqus = "juliensyx"
+  # CSS name for highlight.js
+  highlightjs = "androidstudio"
+  dateFormat = "02 Jan 2006, 15:04"
+  # Include any custom CSS and/or JS files
+  # (relative to /static folder)
+  #custom_css = ["css/my.css"]
+  #custom_js = ["js/my.js"]
+
+[menu]
+  # Shown in the side menu.
+  [[menu.main]]
+    name = "Accueil"
+    pre = "<i class='fa fa-home fa-fw'></i>"
+    weight = 1
+    identifier = "home"
+    url = "/"
+  [[menu.main]]
+    name = "Posts"
+    pre = "<i class='fa fa-list fa-fw'></i>"
+    weight = 2
+    identifier = "post"
+    url = "/post/"
+  [[menu.main]]
+    name = "Topics"
+    pre = "<i class='fa fa-folder fa-fw'></i>"
+    weight = 3
+    identifier = "topic"
+    url = "/topics/"
+  [[menu.main]]
+    name = "Tags"
+    pre = "<i class='fa fa-tags fa-fw'></i>"
+    weight = 4
+    identifier = "tag"
+    url = "/tags/"
+  [[menu.main]]
+    name = "A propos"
+    pre = "<i class='fa fa-user fa-fw'></i>"
+    weight = 5
+    identifier = "about"
+    url = "/about/"
+  [[menu.main]]
+    name = "Contact"
+    pre = "<i class='fa fa-phone fa-fw'></i>"
+    weight = 6
+    url = "/contact/"
+
+[social]
+  twitter = "seraf42"
+  facebook = "julien.syx"
+  googleplus = "JulienSyx"
+  linkedin = "juliensyx"
+  github = "Seraf"

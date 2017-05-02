@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Aquaponie</title>
+    <link>http://aquaponie.syx.fr/</link>
+    <description>Recent content on Aquaponie</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&lt;a rel=&#34;license&#34; href=&#34;http://creativecommons.org/licenses/by-nc-sa/3.0/&#34;&gt;&lt;img alt=&#34;Creative Commons License&#34; style=&#34;border-width:0&#34; src=&#34;https://i.creativecommons.org/l/by-nc-sa/3.0/80x15.png&#34; /&gt;&lt;/a&gt;</copyright>
+    <lastBuildDate>Fri, 02 Jun 2017 08:12:48 +0000</lastBuildDate>
+    
+	<atom:link href="http://aquaponie.syx.fr/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>A propos</title>
+      <link>http://aquaponie.syx.fr/about/</link>
+      <pubDate>Fri, 02 Jun 2017 08:12:48 +0000</pubDate>
+      
+      <guid>http://aquaponie.syx.fr/about/</guid>
+      <description> A propos de moi Je vis actuellement en Seine et Marne près de Sénart. J&amp;rsquo;ai découvert l&amp;rsquo;aquaponie sur internet et je m&amp;rsquo;y suis interessé pendant 3 mois avant de me lancer dans l&amp;rsquo;aventure.
+A propos du site Je vais tenter de tenir un carner de bord de mes aventures dans l&amp;rsquo;aquaponie.
+J&amp;rsquo;y posterais :
+ Le matériel utilisé, et le cout engendré, et ce de façon transparente Des photos et vidéos de mes avancées Des tutoriaux, notamment sur la partie domotique  </description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>http://aquaponie.syx.fr/contact/</link>
+      <pubDate>Tue, 02 May 2017 07:38:48 +0000</pubDate>
+      
+      <guid>http://aquaponie.syx.fr/contact/</guid>
+      <description>Si vous avez des questions, vous pouvez me contacter par email.
+Vous pouvez aussi me contacter sur:
+ @Seraf42   @yoshiharuyamashita   </description>
+    </item>
+    
+    <item>
+      <title>Et on fait de la place pour la serre !</title>
+      <link>http://aquaponie.syx.fr/post/lancement-travaux/</link>
+      <pubDate>Tue, 02 May 2017 08:39:51 +0200</pubDate>
+      
+      <guid>http://aquaponie.syx.fr/post/lancement-travaux/</guid>
+      <description>J&amp;rsquo;ai décidé de faire ma serre au fond du jardin !
+J&amp;rsquo;avais au départ opté pour une petite serre ACD de 3m² pour la mettre sur le bord de ma terasse. Mais ce bord étant très souvent à l&amp;rsquo;ombre, nous avons ma femme et moi convenu qu&amp;rsquo;elle serait mieux au fond du jardin. En regardant l&amp;rsquo;ombre du nouvel emplacement au cours de la journée, nous avions du soleil de 8h du matin a 15h30.</description>
+    </item>
+    
+  </channel>
+</rss>
