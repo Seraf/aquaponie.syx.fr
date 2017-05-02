@@ -18,6 +18,8 @@ Et c'est ainsi que nous sommes passé d'une 3m² a une serre de 11,35m². Cela c
 
 Ce weekend du 1er Mai fut donc dédié à l'arrachage des arbres, la serre ayant été commandée. J'ai réussi à dessoucher 4 lauriers dans la journée. J'ai plus de dos, plus de mains, mais qu'est ce que ça fait grand !
 
-{{% fluid_img "/img/post/lancement-travaux/premier-arbre-dessouche.jpg" %}}
+Il me reste encore 5 ou 6 arbres à dessoucher de façon à arriver juste derrière le magnolia.
 
-{{% fluid_img "/img/post/lancement-travaux/coin-du-jardin.jpg" %}}
+{{% fluid_img "/post/img/lancement-travaux/premier-arbre-dessouche.jpg" %}}
+
+{{% fluid_img "/post/img/lancement-travaux/coin-du-jardin.jpg" %}}
