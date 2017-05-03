@@ -7,6 +7,16 @@
   </url>
   
   <url>
+    <loc>http://aquaponie.syx.fr/equipement/</loc>
+    <lastmod>2017-06-02T08:12:48+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://aquaponie.syx.fr/post/declaration-qui-ma-serre/</loc>
+    <lastmod>2017-05-03T20:21:23+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://aquaponie.syx.fr/contact/</loc>
     <lastmod>2017-05-02T07:38:48+00:00</lastmod>
   </url>
@@ -14,6 +24,12 @@
   <url>
     <loc>http://aquaponie.syx.fr/post/lancement-travaux/</loc>
     <lastmod>2017-05-02T08:39:51+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://aquaponie.syx.fr/tags/administratif/</loc>
+    <lastmod>2017-05-03T20:21:23+02:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -30,19 +46,19 @@
   
   <url>
     <loc>http://aquaponie.syx.fr/post/</loc>
-    <lastmod>2017-05-02T08:39:51+02:00</lastmod>
+    <lastmod>2017-05-03T20:21:23+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://aquaponie.syx.fr/tags/serre/</loc>
-    <lastmod>2017-05-02T08:39:51+02:00</lastmod>
+    <lastmod>2017-05-03T20:21:23+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://aquaponie.syx.fr/tags/</loc>
-    <lastmod>2017-05-02T08:39:51+02:00</lastmod>
+    <lastmod>2017-05-03T20:21:23+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -52,14 +68,14 @@
   </url>
   
   <url>
-    <loc>http://aquaponie.syx.fr/topics/travaux/</loc>
-    <lastmod>2017-05-02T08:39:51+02:00</lastmod>
+    <loc>http://aquaponie.syx.fr/tags/travaux/</loc>
+    <lastmod>2017-05-03T20:21:23+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://aquaponie.syx.fr/tags/travaux/</loc>
-    <lastmod>2017-05-02T08:39:51+02:00</lastmod>
+    <loc>http://aquaponie.syx.fr/topics/travaux/</loc>
+    <lastmod>2017-05-03T20:21:23+02:00</lastmod>
     <priority>0</priority>
   </url>
   

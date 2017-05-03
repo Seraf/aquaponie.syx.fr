@@ -17,7 +17,7 @@ paginate = 10
 [params]
   # Shown in the home page
   subtitle = "Les petits poissons, dans l'eau ..."
-  brand = "Blackburn"
+  brand = "Julien Syx"
   googleAnalytics = "UA-43862038-2"
   disqus = "aquaponie-syx-fr"
   # CSS name for highlight.js
@@ -43,27 +43,33 @@ paginate = 10
     identifier = "post"
     url = "/post/"
   [[menu.main]]
+    name = "Equipement"
+    pre = "<i class='fa fa-cogs fa-fw'></i>"
+    weight = 3
+    identifier = "equipement"
+    url = "/equipement/"
+  [[menu.main]]
     name = "Topics"
     pre = "<i class='fa fa-folder fa-fw'></i>"
-    weight = 3
+    weight = 4
     identifier = "topic"
     url = "/topics/"
   [[menu.main]]
     name = "Tags"
     pre = "<i class='fa fa-tags fa-fw'></i>"
-    weight = 4
+    weight = 5
     identifier = "tag"
     url = "/tags/"
   [[menu.main]]
     name = "A propos"
     pre = "<i class='fa fa-user fa-fw'></i>"
-    weight = 5
+    weight = 6
     identifier = "about"
     url = "/about/"
   [[menu.main]]
     name = "Contact"
     pre = "<i class='fa fa-phone fa-fw'></i>"
-    weight = 6
+    weight = 7
     url = "/contact/"
 
 [social]

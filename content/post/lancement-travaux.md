@@ -14,7 +14,7 @@ En regardant l'ombre du nouvel emplacement au cours de la journée, nous avions 
 On aura ainsi le soleil de 8h du matin a 8h du soir ...
 
 En faisant mes calculs, je me suis aperçu qu'en enlevant les arbres, on gagnait facilement 1m de chaque coté voir plus ... le fait de l'avoir changé d'emplacement me permettait également de gagner en profondeur.
-Et c'est ainsi que nous sommes passé d'une 3m² a une serre de 11,35m². Cela change complètement la donne, je vais pouvoir faire également de la permaculture dans ma serre !
+Et c'est ainsi que nous sommes passés d'une 3m² a une serre de 11,35m². Cela change complètement la donne, je vais pouvoir faire également de la permaculture dans ma serre !
 
 Ce weekend du 1er Mai fut donc dédié à l'arrachage des arbres, la serre ayant été commandée. J'ai réussi à dessoucher 4 lauriers dans la journée. J'ai plus de dos, plus de mains, mais qu'est ce que ça fait grand !
 
