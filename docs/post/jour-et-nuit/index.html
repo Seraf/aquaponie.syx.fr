@@ -7,7 +7,7 @@
   <meta name="description" content="">
   <meta name="generator" content="Hugo 0.20.6" />
 
-  <title>Serre &middot; Aquaponie</title>
+  <title>Jour et nuit, soleil et pluie &middot; Aquaponie</title>
 
   
   
@@ -36,8 +36,6 @@
   <link href="https://fonts.googleapis.com/css?family=Raleway" rel="stylesheet" type="text/css">
 
   
-  
-  <link rel="alternate" type="application/rss+xml" title="Aquaponie" href="http://aquaponie.syx.fr/tags/serre/index.xml" />
   
 
   
@@ -119,10 +117,6 @@
   <div class="pure-menu social">
   <ul class="pure-menu-list">
 
-    
-    <li class="pure-menu-item">
-      <a class="pure-menu-link" href="http://aquaponie.syx.fr/tags/serre/index.xml"><i class="fa fa-rss fa-fw"></i>RSS</a>
-    </li>
     
 
     
@@ -234,16 +228,12 @@
 
 
 <div class="header">
-  <h1>Serre</h1>
+  <h1>Jour et nuit, soleil et pluie</h1>
+  <h2></h2>
 </div>
-
 <div class="content">
-  
-    <article>
-  <header>
-    <h2><a href="http://aquaponie.syx.fr/post/jour-et-nuit/">Jour et nuit, soleil et pluie</a></h2>
 
-    <div class="post-meta">
+  <div class="post-meta">
 
   <div>
     <i class="fa fa-calendar fa-fw"></i>
@@ -286,139 +276,87 @@
 
 </div>
 
-  </header>
+  <p>En ce moment je n&rsquo;ai que mon projet en tête !</p>
 
-  <p>
-  En ce moment je n&rsquo;ai que mon projet en tête !
-A tel point que dès que j&rsquo;ai un rayon de soleil sur mon temps libre, je vais m&rsquo;occuper du jardin. J&rsquo;ai fini d&rsquo;arracher les arbres et j&rsquo;ai commencé à motoculter le terrain.
-Et dès qu&rsquo;il pleut (comme c&rsquo;est le cas souvent en ce moment) ou qu&rsquo;il fait nuit .. bref, quand je ne suis pas dans le jardin, je joue avec le materiel électronique que j&rsquo;ai reçu il y a quelques jours.
-  </p>
+<p>A tel point que dès que j&rsquo;ai un rayon de soleil sur mon temps libre, je vais m&rsquo;occuper du jardin.
+J&rsquo;ai fini d&rsquo;arracher les arbres et j&rsquo;ai commencé à motoculter le terrain.</p>
+
+
+<img class="pure-img" src="http://aquaponie.syx.fr/post/img/jour-et-nuit/coin-du-jardin.jpg" alt="">
+
+
+<p>Et dès qu&rsquo;il pleut (comme c&rsquo;est le cas souvent en ce moment) ou qu&rsquo;il fait nuit .. bref, quand je ne suis pas dans le jardin, je joue avec le materiel <a href="http://aquaponie.syx.fr/equipement/#electronique">électronique</a> que j&rsquo;ai reçu il y a quelques jours.</p>
+
+
+<img class="pure-img" src="http://aquaponie.syx.fr/post/img/jour-et-nuit/electronique.jpg" alt="">
+
+
+<p>Je décrirais plus tard dans un tutorial toutes les procédures à suivre etc. Pour l&rsquo;instant j&rsquo;ai mis cela en <a href="https://github.com/Seraf/greenhouse">opensource</a> dans un repository github.</p>
+
+<p>Pour décrire brievement le fonctionnement, j&rsquo;ai un <a href="https://www.raspberrypi.org/">raspberry pi</a> tournant sur une distribution <a href="https://raspbian-france.fr/">raspbian</a> qui a un daemon <a href="https://www.docker.com/">docker</a> d&rsquo;installé.</p>
+
+<p>Dans un container docker, s&rsquo;éxecute un programme appellé <a href="https://www.influxdata.com/telegraf/">telegraf</a> qui va interroger le capteur d&rsquo;humidité/temperature (et bientot il y aura PH, bref des possibilités infinies) et envoyer les données dans une base de données.</p>
+
+<p>Concernant cette base de données, celle ci réside sur un serveur stocké dans mon grenier. Il fait tourner un <a href="http://rancher.com/rancher-os/">RancherOS</a>, donc tout fonctionne a base de container et me permet d&rsquo;aisement prototyper, sauvegarder et dupliquer. Sur ce serveur tourne donc une base de données <a href="https://www.influxdata.com/influxdb/">influxdb</a> et un <a href="https://grafana.com/">grafana</a> pour l&rsquo;affichage des graphiques.</p>
+
+
+<img class="pure-img" src="http://aquaponie.syx.fr/post/img/jour-et-nuit/serre-data.png" alt="">
+
+
+<p>En poussant les choses un peu plus loin avec d&rsquo;autres capteurs, voir meme actionneurs, on peut tout automatiser (mais ce n&rsquo;est pas tellement mon objectif, je prefere me concentrer sur la surveillance).</p>
+
+<p>Grafana permet également d&rsquo;envoyer des alertes, on peut donc imaginer par exemple que je reçoive une alerte des que mon Ph diffère des seuils fixés.</p>
+
+<p>J&rsquo;ai reçu ma serre hier, il faut donc que d&rsquo;ici Juin (au moment où j&rsquo;aurais l&rsquo;autorisation pour la monter), j&rsquo;ai fini de creuser le bassin, égalisé le terrain et amené l&rsquo;électricité &hellip; bref, du boulot !</p>
+
 
   
-  <footer>
-    <a href="http://aquaponie.syx.fr/post/jour-et-nuit/">Read more<i class="fa fa-angle-double-right fa-fw"></i></a>
-  </footer>
-  
-</article>
-
-  
-    <article>
-  <header>
-    <h2><a href="http://aquaponie.syx.fr/post/declaration-qui-ma-serre/">Déclaration préalable de travaux qui ma serre...</a></h2>
-
-    <div class="post-meta">
-
-  <div>
-    <i class="fa fa-calendar fa-fw"></i>
-    <time>03 May 2017, 20:21</time>
-  </div>
-
-  
-
-  
-  
-  
-  <div>
-    <i class="fa fa-folder fa-fw"></i>
+<div class="prev-next-post pure-g">
+  <div class="pure-u-1-24" style="text-align: left;">
     
-      <a class="post-taxonomy-topic" href="http://aquaponie.syx.fr/topics/travaux">Travaux</a>
-    
-  </div>
-  
-  
-
-  
-  
-  
-  <div>
-    <i class="fa fa-tags fa-fw"></i>
-    
-      <a class="post-taxonomy-tag" href="http://aquaponie.syx.fr/tags/serre">serre</a>&nbsp;&#47;
-    
-      <a class="post-taxonomy-tag" href="http://aquaponie.syx.fr/tags/administratif">administratif</a>&nbsp;&#47;
-    
-      <a class="post-taxonomy-tag" href="http://aquaponie.syx.fr/tags/travaux">travaux</a>
+    <a href="http://aquaponie.syx.fr/post/declaration-qui-ma-serre/"><i class="fa fa-chevron-left"></i></a>
     
   </div>
-  
-  
-
+  <div class="pure-u-10-24">
+    
+    <nav class="prev">
+      <a href="http://aquaponie.syx.fr/post/declaration-qui-ma-serre/">Déclaration préalable de travaux qui ma serre...</a>
+    </nav>
+    
+  </div>
+  <div class="pure-u-2-24">
+    &nbsp;
+  </div>
+  <div class="pure-u-10-24">
+    
+  </div>
+  <div class="pure-u-1-24" style="text-align: right;">
+    
+  </div>
 </div>
 
-  </header>
 
-  <p>
-  Derrière ce titre rempli d&rsquo;humour (n&rsquo;est ce pas ?) se cache un peu d&rsquo;administratif &hellip;
-En effet, j&rsquo;ai commandé ma serre de 11,35m², j&rsquo;ai commencé à enlever les arbres, tout va bien dans le meilleur des mondes, je la reçois dans moins de 3 semaines.
-Puis je ne sais pas pourquoi, je me suis dit qu&rsquo;il y avait peut être des démarches administratives à faire. Je précise que je ne suis pas un grand bricoleur, et encore moins de gros oeuvre donc je n&rsquo;avais jamais eu à faire ce genre de démarches.
-  </p>
 
   
-  <footer>
-    <a href="http://aquaponie.syx.fr/post/declaration-qui-ma-serre/">Read more<i class="fa fa-angle-double-right fa-fw"></i></a>
-  </footer>
-  
-</article>
+<div id="disqus_thread"></div>
+<script type="text/javascript">
 
-  
-    <article>
-  <header>
-    <h2><a href="http://aquaponie.syx.fr/post/lancement-travaux/">Et on fait de la place pour la serre !</a></h2>
-
-    <div class="post-meta">
-
-  <div>
-    <i class="fa fa-calendar fa-fw"></i>
-    <time>02 May 2017, 08:39</time>
-  </div>
-
-  
-
-  
-  
-  
-  <div>
-    <i class="fa fa-folder fa-fw"></i>
+(function() {
     
-      <a class="post-taxonomy-topic" href="http://aquaponie.syx.fr/topics/travaux">Travaux</a>
     
-  </div>
-  
-  
+    if (window.location.hostname == "localhost")
+        return;
 
-  
-  
-  
-  <div>
-    <i class="fa fa-tags fa-fw"></i>
-    
-      <a class="post-taxonomy-tag" href="http://aquaponie.syx.fr/tags/serre">serre</a>&nbsp;&#47;
-    
-      <a class="post-taxonomy-tag" href="http://aquaponie.syx.fr/tags/jardin">jardin</a>&nbsp;&#47;
-    
-      <a class="post-taxonomy-tag" href="http://aquaponie.syx.fr/tags/travaux">travaux</a>
-    
-  </div>
-  
-  
+    var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+    var disqus_shortname = 'aquaponie-syx-fr';
+    dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+    (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+})();
+</script>
+<noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+<a href="http://disqus.com/" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
 
-</div>
 
-  </header>
-
-  <p>
-  J&rsquo;ai décidé de faire ma serre au fond du jardin !
-J&rsquo;avais au départ opté pour une petite serre ACD de 3m² pour la mettre sur le bord de ma terasse. Mais ce bord étant très souvent à l&rsquo;ombre, nous avons ma femme et moi convenu qu&rsquo;elle serait mieux au fond du jardin. En regardant l&rsquo;ombre du nouvel emplacement au cours de la journée, nous avions du soleil de 8h du matin a 15h30.
-  </p>
-
-  
-  <footer>
-    <a href="http://aquaponie.syx.fr/post/lancement-travaux/">Read more<i class="fa fa-angle-double-right fa-fw"></i></a>
-  </footer>
-  
-</article>
-
-  
 </div>
 
 </div>
@@ -441,3 +379,4 @@ J&rsquo;avais au départ opté pour une petite serre ACD de 3m² pour la mettre 
 
 </body>
 </html>
+

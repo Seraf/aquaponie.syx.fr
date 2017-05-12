@@ -12,6 +12,11 @@
   </url>
   
   <url>
+    <loc>http://aquaponie.syx.fr/post/jour-et-nuit/</loc>
+    <lastmod>2017-05-12T18:34:21+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://aquaponie.syx.fr/post/declaration-qui-ma-serre/</loc>
     <lastmod>2017-05-03T20:21:23+02:00</lastmod>
   </url>
@@ -39,20 +44,38 @@
   </url>
   
   <url>
+    <loc>http://aquaponie.syx.fr/tags/electronique/</loc>
+    <lastmod>2017-05-12T18:34:21+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://aquaponie.syx.fr/topics/electronique/</loc>
+    <lastmod>2017-05-12T18:34:21+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://aquaponie.syx.fr/tags/jardin/</loc>
     <lastmod>2017-05-02T08:39:51+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
+    <loc>http://aquaponie.syx.fr/tags/monitoring/</loc>
+    <lastmod>2017-05-12T18:34:21+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://aquaponie.syx.fr/post/</loc>
-    <lastmod>2017-05-03T20:21:23+02:00</lastmod>
+    <lastmod>2017-05-12T18:34:21+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://aquaponie.syx.fr/tags/serre/</loc>
-    <lastmod>2017-05-03T20:21:23+02:00</lastmod>
+    <lastmod>2017-05-12T18:34:21+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -64,18 +87,19 @@
   
   <url>
     <loc>http://aquaponie.syx.fr/topics/</loc>
+    <lastmod>2017-05-12T18:34:21+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://aquaponie.syx.fr/tags/travaux/</loc>
-    <lastmod>2017-05-03T20:21:23+02:00</lastmod>
+    <lastmod>2017-05-12T18:34:21+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://aquaponie.syx.fr/topics/travaux/</loc>
-    <lastmod>2017-05-03T20:21:23+02:00</lastmod>
+    <lastmod>2017-05-12T18:34:21+02:00</lastmod>
     <priority>0</priority>
   </url>
   
