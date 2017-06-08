@@ -7,7 +7,7 @@
   <meta name="description" content="">
   <meta name="generator" content="Hugo 0.20.6" />
 
-  <title>Electronique &middot; Aquaponie</title>
+  <title>Construction et bidouillages &middot; Aquaponie</title>
 
   
   
@@ -36,8 +36,6 @@
   <link href="https://fonts.googleapis.com/css?family=Raleway" rel="stylesheet" type="text/css">
 
   
-  
-  <link rel="alternate" type="application/rss+xml" title="Aquaponie" href="http://aquaponie.syx.fr/tags/electronique/index.xml" />
   
 
   
@@ -119,10 +117,6 @@
   <div class="pure-menu social">
   <ul class="pure-menu-list">
 
-    
-    <li class="pure-menu-item">
-      <a class="pure-menu-link" href="http://aquaponie.syx.fr/tags/electronique/index.xml"><i class="fa fa-rss fa-fw"></i>RSS</a>
-    </li>
     
 
     
@@ -234,16 +228,12 @@
 
 
 <div class="header">
-  <h1>Electronique</h1>
+  <h1>Construction et bidouillages</h1>
+  <h2></h2>
 </div>
-
 <div class="content">
-  
-    <article>
-  <header>
-    <h2><a href="http://aquaponie.syx.fr/post/construction-et-bidouillages/">Construction et bidouillages</a></h2>
 
-    <div class="post-meta">
+  <div class="post-meta">
 
   <div>
     <i class="fa fa-calendar fa-fw"></i>
@@ -286,84 +276,103 @@
 
 </div>
 
-  </header>
+  <p>Ca y&rsquo;est, j&rsquo;ai commencé à monter ma serre. Il me reste encore à poser les parois à l&rsquo;arrière et monter les goutieres mais j&rsquo;ai besoin d&rsquo;aller chez le voisin, et il n&rsquo;est jamais là et ferme son portail à clé &hellip; J&rsquo;espère pouvoir finir cette partie ce weekend.</p>
 
-  <p>
-  Ca y&rsquo;est, j&rsquo;ai commencé à monter ma serre. Il me reste encore à poser les parois à l&rsquo;arrière et monter les goutieres mais j&rsquo;ai besoin d&rsquo;aller chez le voisin, et il n&rsquo;est jamais là et ferme son portail à clé &hellip; J&rsquo;espère pouvoir finir cette partie ce weekend.
-Manque de bol, j&rsquo;ai eu un problème sur mes colis, je me retrouve avec deux pièces manquantes qui m&rsquo;empêchent de faire la porte.
-  </p>
+<p>Manque de bol, j&rsquo;ai eu un problème sur mes colis, je me retrouve avec deux pièces manquantes qui m&rsquo;empêchent de faire la porte. J&rsquo;ai appellé la jardinerie dans laquelle j&rsquo;ai fais mon achat, ils vont me renvoyer les pièces manquantes.</p>
+
+<p>Même si elle n&rsquo;est pas encore finie, c&rsquo;est déjà un plaisir de voir la lucarne se lever toute seule automatiquement depuis ma véranda !</p>
+
+
+<img class="pure-img" src="http://aquaponie.syx.fr/post/img/construction-et-bidouillages/serre-1.jpg" alt="">
+
+
+
+<img class="pure-img" src="http://aquaponie.syx.fr/post/img/construction-et-bidouillages/serre-2.jpg" alt="">
+
+
+
+<img class="pure-img" src="http://aquaponie.syx.fr/post/img/construction-et-bidouillages/serre-3.jpg" alt="">
+
+
+<p>Si vous avez l&rsquo;oeil, vous avez certainement remarqué des parpaings au fond de la serre. J&rsquo;avais au départ prévu de juste faire mon trou et mettre mon feutre et ma bache, mais mon père m&rsquo;a fait remarquer que ça risquerait de s&rsquo;ébouler.
+Dans le doute, quitte à faire un truc qui tient bien dans le temps, il est venu m&rsquo;aider à agrandir le trou et faire un vrai bassin digne de ce nom !</p>
+
+
+<img class="pure-img" src="http://aquaponie.syx.fr/post/img/construction-et-bidouillages/bassin.jpg" alt="">
+
+
+<p>J&rsquo;ai également reçu mon capteur de pH, ma prise BNC pour connecter ma sonde, et c&rsquo;est parti pour connecter tout ça.</p>
+
+
+<img class="pure-img" src="http://aquaponie.syx.fr/post/img/construction-et-bidouillages/electronique.jpg" alt="">
+
+
+<p>J&rsquo;ai donc ajouté la partie pH à mon dashboard, créé des alertes que je reçois sur mon téléphone portable, et j&rsquo;ai également fait des graphiques pour <a href="https://www.parrot.com/fr/jardin-connecte/parrot-pot">flowerpower</a> (ils ne produisent plus les capteurs, ils les ont remplacé par des pots).</p>
+
+<p>Je me suis souvenu que je disposais de 3 capteurs que j&rsquo;avais à l&rsquo;époque acheté en promotion : 45€ les 3 (alors que ça coutait environ 50€ l&rsquo;unité). J&rsquo;avais été déçu en rentrant chez moi de comprendre qu&rsquo;il fallait se connecter dessus en bluetooth regulierement pour envoyer/lire/traiter les infos et que c&rsquo;était completement fermé niveau API.</p>
+
+<p>Les choses ont changé car ils proposent aujourd&rsquo;hui une API et un programme qui permet de se connecter en bluetooth sur les capteurs et d&rsquo;envoyer continuellement les informations sur leur cloud.</p>
+
+<p>J&rsquo;ai donc mis en place ce petit programme dans un container docker, et j&rsquo;ai créé une sonde qui va récuperer ces informations pour les injecter dans des graphiques.</p>
+
+<p>(Tout ce charabia ci dessus ne va pas forcement parler à grand monde. Je ferais une page dédiée de tutorial pour expliquer toute la mise en oeuvre pas à pas. J&rsquo;explique juste dans ce post mes reflexions et mes résultats)</p>
+
+<p>Voici donc à quoi ressemble aujourd&rsquo;hui mon tableau de bord :</p>
+
+
+<img class="pure-img" src="http://aquaponie.syx.fr/post/img/construction-et-bidouillages/dashboard.png" alt="">
+
+
+<p>J&rsquo;ai hate de finir ma serre, d&rsquo;installer les tours, de mettre l&rsquo;irrigation, les goutieres, mettre en eau le bassin et commencer à cycler l&rsquo;azote !</p>
+
 
   
-  <footer>
-    <a href="http://aquaponie.syx.fr/post/construction-et-bidouillages/">Read more<i class="fa fa-angle-double-right fa-fw"></i></a>
-  </footer>
-  
-</article>
-
-  
-    <article>
-  <header>
-    <h2><a href="http://aquaponie.syx.fr/post/jour-et-nuit/">Jour et nuit, soleil et pluie</a></h2>
-
-    <div class="post-meta">
-
-  <div>
-    <i class="fa fa-calendar fa-fw"></i>
-    <time>12 May 2017, 18:34</time>
+<div class="prev-next-post pure-g">
+  <div class="pure-u-1-24" style="text-align: left;">
+    
+    <a href="http://aquaponie.syx.fr/post/jour-et-nuit/"><i class="fa fa-chevron-left"></i></a>
+    
   </div>
-
-  
-
-  
-  
-  
-  <div>
-    <i class="fa fa-folder fa-fw"></i>
+  <div class="pure-u-10-24">
     
-      <a class="post-taxonomy-topic" href="http://aquaponie.syx.fr/topics/travaux">Travaux</a>&nbsp;&#47;
-    
-      <a class="post-taxonomy-topic" href="http://aquaponie.syx.fr/topics/electronique">Electronique</a>
+    <nav class="prev">
+      <a href="http://aquaponie.syx.fr/post/jour-et-nuit/">Jour et nuit, soleil et pluie</a>
+    </nav>
     
   </div>
-  
-  
-
-  
-  
-  
-  <div>
-    <i class="fa fa-tags fa-fw"></i>
-    
-      <a class="post-taxonomy-tag" href="http://aquaponie.syx.fr/tags/serre">serre</a>&nbsp;&#47;
-    
-      <a class="post-taxonomy-tag" href="http://aquaponie.syx.fr/tags/electronique">electronique</a>&nbsp;&#47;
-    
-      <a class="post-taxonomy-tag" href="http://aquaponie.syx.fr/tags/monitoring">monitoring</a>&nbsp;&#47;
-    
-      <a class="post-taxonomy-tag" href="http://aquaponie.syx.fr/tags/travaux">travaux</a>
+  <div class="pure-u-2-24">
+    &nbsp;
+  </div>
+  <div class="pure-u-10-24">
     
   </div>
-  
-  
-
+  <div class="pure-u-1-24" style="text-align: right;">
+    
+  </div>
 </div>
 
-  </header>
 
-  <p>
-  En ce moment je n&rsquo;ai que mon projet en tête !
-A tel point que dès que j&rsquo;ai un rayon de soleil sur mon temps libre, je vais m&rsquo;occuper du jardin. J&rsquo;ai fini d&rsquo;arracher les arbres et j&rsquo;ai commencé à motoculter le terrain.
-Et dès qu&rsquo;il pleut (comme c&rsquo;est le cas souvent en ce moment) ou qu&rsquo;il fait nuit .. bref, quand je ne suis pas dans le jardin, je joue avec le materiel électronique que j&rsquo;ai reçu il y a quelques jours.
-  </p>
 
   
-  <footer>
-    <a href="http://aquaponie.syx.fr/post/jour-et-nuit/">Read more<i class="fa fa-angle-double-right fa-fw"></i></a>
-  </footer>
-  
-</article>
+<div id="disqus_thread"></div>
+<script type="text/javascript">
 
-  
+(function() {
+    
+    
+    if (window.location.hostname == "localhost")
+        return;
+
+    var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+    var disqus_shortname = 'aquaponie-syx-fr';
+    dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+    (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+})();
+</script>
+<noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+<a href="http://disqus.com/" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+
+
 </div>
 
 </div>
@@ -386,3 +395,4 @@ Et dès qu&rsquo;il pleut (comme c&rsquo;est le cas souvent en ce moment) ou qu&
 
 </body>
 </html>
+

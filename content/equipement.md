@@ -9,8 +9,10 @@ sidemenu = "true"
 
 - Une serre ACD R305H-B 11,35 m², acheté sur [serres-et-abris](https://www.serres-et-abris.com/199-serre-r305h-b-acd-1135-m-verre-trempe-securitparois-droites.html) d'une valeur de **2199€**
 - Un récupérateur d'eau de pluie + Socle ACD acheté sur [serres-et-abris](https://www.serres-et-abris.com/158-recuperateur-d-eau-socle-acd-tous-types-de-serres.html) pour **49€**
+- Du feutre géotextile pour mon bassin acheté à [leroy merlin](https://www.leroymerlin.fr/v3/p/produits/feutre-geotextile-pour-liner-ubbink-geotextile-l-5-x-l-2-m-e136898) pour 2x20,90 = **41,8€**
+- Une bache EPDM pour le bassin acheté à [Truffaut](http://www.truffaut.com/produit/bache-de-bassin-epdm-epaisseur-0-6-mm-dim-4-x-6m/275216/25232) pour **179,95€**
 
-L'équipement ci dessus m'a donc couté : **2248€**
+L'équipement ci dessus m'a donc couté : **2469,75**
 
 ## Electronique {#electronique}
 - Raspberry pi 3, acheté sur [amazon](https://www.amazon.fr/gp/product/B01CD5VC92) à **40,97€**
@@ -18,8 +20,11 @@ L'équipement ci dessus m'a donc couté : **2248€**
 - Carte Mémoire microSDHC SanDisk Ultra 16GB, acheté sur [amazon](https://www.amazon.fr/gp/product/B013UDL5V6) à **9,52€**
 - Adafruit HTU21D-F Temperature Humidity Sensor, acheté sur [amazon](https://www.amazon.fr/gp/product/B00OKJFLWO) à **21,90€**
 - Raspberry Pi GPIO t-cobbler Kit avec Breakout Board [amazon](https://www.amazon.fr/gp/product/B06XX9LD5M) à **16,90€**
+- Atlas Scientific EZO pH Circuit acheté sur [amazon us](https://www.amazon.com/gp/product/B00641R1PQ) à **38$** (attention aux frais de port + douane, de mémoire ça m'est revenu à 65€ environ)
+- Électrode pH achetée sur [amazon](https://www.amazon.fr/gp/product/B00MGDWZ9I) à **27,72€**
+- Connecteur femelle BNC sur [amazon](https://www.amazon.fr/gp/product/B00CN71O4Y) à **20,24€**
 
-L'équipement ci dessus m'a donc couté : **97,28€**
+L'équipement ci dessus m'a donc couté : **210,24€**
 
 ## Au total
-L'ensemble du projet a couté **2345€**
+L'ensemble du projet a couté **2679,99**
