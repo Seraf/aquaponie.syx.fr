@@ -2,6 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://aquaponie.syx.fr/post/la-serre-est-finie/</loc>
+    <lastmod>2017-08-15T17:14:12+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://aquaponie.syx.fr/post/construction-et-bidouillages/</loc>
     <lastmod>2017-06-08T18:12:28+02:00</lastmod>
   </url>
@@ -44,19 +49,31 @@
   
   <url>
     <loc>http://aquaponie.syx.fr/</loc>
-    <lastmod>2017-06-08T18:12:28+02:00</lastmod>
+    <lastmod>2017-08-15T17:14:12+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://aquaponie.syx.fr/topics/domotique/</loc>
-    <lastmod>2017-06-08T18:12:28+02:00</lastmod>
+    <loc>http://aquaponie.syx.fr/tags/bulleur/</loc>
+    <lastmod>2017-08-15T17:14:12+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://aquaponie.syx.fr/tags/domotique/</loc>
-    <lastmod>2017-06-08T18:12:28+02:00</lastmod>
+    <lastmod>2017-08-15T17:14:12+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://aquaponie.syx.fr/topics/domotique/</loc>
+    <lastmod>2017-08-15T17:14:12+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://aquaponie.syx.fr/tags/electronique/</loc>
+    <lastmod>2017-08-15T17:14:12+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -67,8 +84,8 @@
   </url>
   
   <url>
-    <loc>http://aquaponie.syx.fr/tags/electronique/</loc>
-    <lastmod>2017-06-08T18:12:28+02:00</lastmod>
+    <loc>http://aquaponie.syx.fr/tags/irrigation/</loc>
+    <lastmod>2017-08-15T17:14:12+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -86,13 +103,13 @@
   
   <url>
     <loc>http://aquaponie.syx.fr/post/</loc>
-    <lastmod>2017-06-08T18:12:28+02:00</lastmod>
+    <lastmod>2017-08-15T17:14:12+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://aquaponie.syx.fr/tags/serre/</loc>
-    <lastmod>2017-06-08T18:12:28+02:00</lastmod>
+    <lastmod>2017-08-15T17:14:12+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -104,19 +121,19 @@
   
   <url>
     <loc>http://aquaponie.syx.fr/topics/</loc>
-    <lastmod>2017-06-08T18:12:28+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://aquaponie.syx.fr/topics/travaux/</loc>
-    <lastmod>2017-06-08T18:12:28+02:00</lastmod>
+    <lastmod>2017-08-15T17:14:12+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://aquaponie.syx.fr/tags/travaux/</loc>
-    <lastmod>2017-06-08T18:12:28+02:00</lastmod>
+    <lastmod>2017-08-15T17:14:12+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://aquaponie.syx.fr/topics/travaux/</loc>
+    <lastmod>2017-08-15T17:14:12+02:00</lastmod>
     <priority>0</priority>
   </url>
   
