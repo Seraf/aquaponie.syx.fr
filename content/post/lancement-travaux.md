@@ -20,6 +20,6 @@ Ce weekend du 1er Mai fut donc dédié à l'arrachage des arbres, la serre ayant
 
 Il me reste encore 5 ou 6 arbres à dessoucher de façon à arriver juste derrière le magnolia.
 
-{{% fluid_img "/post/img/lancement-travaux/premier-arbre-dessouche.jpg" %}}
+{{< figure link="/post/img/lancement-travaux/premier-arbre-dessouche.jpg" thumb="-thumb" >}}
 
-{{% fluid_img "/post/img/lancement-travaux/coin-du-jardin.jpg" %}}
+{{< figure link="/post/img/lancement-travaux/coin-du-jardin.jpg" thumb="-thumb" >}}

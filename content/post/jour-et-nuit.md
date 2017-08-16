@@ -6,17 +6,18 @@ title = "Jour et nuit, soleil et pluie"
 description = ""
 truncated = false
 +++
+{{< pswp-init >}}
 
 En ce moment je n'ai que mon projet en tête !
 
 A tel point que dès que j'ai un rayon de soleil sur mon temps libre, je vais m'occuper du jardin.
 J'ai fini d'arracher les arbres et j'ai commencé à motoculter le terrain.
 
-{{% fluid_img "/post/img/jour-et-nuit/coin-du-jardin.jpg" %}}
+{{< figure link="/post/img/jour-et-nuit/coin-du-jardin.jpg" thumb="-thumb" >}}
 
 Et dès qu'il pleut (comme c'est le cas souvent en ce moment) ou qu'il fait nuit .. bref, quand je ne suis pas dans le jardin, je joue avec le materiel [électronique]({{< relref "equipement.md#electronique" >}}) que j'ai reçu il y a quelques jours.
 
-{{% fluid_img "/post/img/jour-et-nuit/electronique.jpg" %}}
+{{< figure link="/post/img/jour-et-nuit/electronique.jpg" thumb="-thumb" >}}
 
 Je décrirais plus tard dans un tutorial toutes les procédures à suivre etc. Pour l'instant j'ai mis cela en [opensource](https://github.com/Seraf/greenhouse) dans un repository github.
 
@@ -26,7 +27,7 @@ Dans un container docker, s'éxecute un programme appellé [telegraf](https://ww
 
 Concernant cette base de données, celle ci réside sur un serveur stocké dans mon grenier. Il fait tourner un [RancherOS](http://rancher.com/rancher-os/), donc tout fonctionne a base de container et me permet d'aisement prototyper, sauvegarder et dupliquer. Sur ce serveur tourne donc une base de données [influxdb](https://www.influxdata.com/influxdb/) et un [grafana](https://grafana.com/) pour l'affichage des graphiques.
 
-{{% fluid_img "/post/img/jour-et-nuit/serre-data.png" %}}
+{{< figure link="/post/img/jour-et-nuit/serre-data.png" thumb="-thumb" >}}
 
 En poussant les choses un peu plus loin avec d'autres capteurs, voir meme actionneurs, on peut tout automatiser (mais ce n'est pas tellement mon objectif, je prefere me concentrer sur la surveillance).
 
