@@ -18,10 +18,10 @@ Du coup, voici plusieurs photos un peu en vrac prises lors de la construction.
 
 {{< gallery title="Photos de la serre en construction" >}}
 {{< figure link="/post/img/la-serre-est-finie/serre-terre.jpg" thumb="-thumb" caption="La serre avec la terre apparente" >}}
-{{< figure link="/post/img/la-serre-est-finie/remplissage-bassin.jpg" thumb="-thumb" caption="Remplissage du bassin en mode piscine" >}}
-{{< figure link="/post/img/la-serre-est-finie/dallage.jpg" thumb="-thumb" caption="Mise en place de la terrasse" >}}
 {{< figure link="/post/img/la-serre-est-finie/mise-en-place-irrigation.jpg" thumb="-thumb" caption="Mise en place de la tuyauterie" >}}
 {{< figure link="/post/img/la-serre-est-finie/les-gouttieres.jpg" thumb="-thumb" caption="Mise en place des gouttieres" >}}
+{{< figure link="/post/img/la-serre-est-finie/remplissage-bassin.jpg" thumb="-thumb" caption="Remplissage du bassin en mode piscine" >}}
+{{< figure link="/post/img/la-serre-est-finie/dallage.jpg" thumb="-thumb" caption="Mise en place de la terrasse" >}}
 {{< figure link="/post/img/la-serre-est-finie/boitier-electrique.jpg" thumb="-thumb" caption="Mise en place du boitier electrique" >}}
 {{< /gallery >}}
 
