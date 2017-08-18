@@ -1,9 +1,9 @@
 +++
 topics = ["Travaux","Domotique"]
 date = "2017-08-15T17:14:12+02:00"
-tags = ["serre","domotique","travaux","electronique","bulleur","irrigation"]
+tags = ["serre","domotique","travaux","electronique","bulleur","irrigation","aquaponie","poisson","zipgrow","ACD","lombricomposteur"]
 title = "La serre est finie !"
-description = ""
+description = "Etat des lieux de ma serre connectée. Cette serre combine des buttes de permaculture, de l'aquaponie, de la culture verticale et de la domotique"
 truncated = false
 +++
 {{< pswp-init >}}

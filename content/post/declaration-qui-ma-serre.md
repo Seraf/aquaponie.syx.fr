@@ -3,7 +3,7 @@ topics = ["Travaux"]
 date = "2017-05-03T20:21:23+02:00"
 tags = ["serre","administratif","travaux"]
 title = "Déclaration préalable de travaux qui ma serre..."
-description = ""
+description = "Comment faire sa déclaration de travaux pour faire sa serre"
 truncated = false
 +++
 

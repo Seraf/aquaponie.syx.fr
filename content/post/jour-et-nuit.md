@@ -3,7 +3,7 @@ topics = ["Travaux","Electronique"]
 date = "2017-05-12T18:34:21+02:00"
 tags = ["serre","electronique","monitoring","travaux"]
 title = "Jour et nuit, soleil et pluie"
-description = ""
+description = "Préparation du terrain pour y construire ma serre et réalisation de l'électronique allant être embarqué"
 truncated = false
 +++
 {{< pswp-init >}}

@@ -3,7 +3,7 @@ topics = ["Travaux","Domotique"]
 date = "2017-06-08T18:12:28+02:00"
 tags = ["serre","domotique","travaux","electronique"]
 title = "Construction et bidouillages"
-description = ""
+description = "Photos de la serre et création d'un tableau de bord informatique"
 truncated = false
 +++
 {{< pswp-init >}}

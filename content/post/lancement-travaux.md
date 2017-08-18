@@ -3,7 +3,7 @@ topics = ["Travaux"]
 date = "2017-05-02T08:39:51+02:00"
 tags = ["serre","jardin","travaux"]
 title = "Et on fait de la place pour la serre !"
-description = ""
+description = "Déssouchage des arbres pour préparer le terrain de la serre"
 truncated = false
 +++
 
