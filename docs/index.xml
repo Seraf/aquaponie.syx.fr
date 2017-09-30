@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&lt;a rel=&#34;license&#34; href=&#34;http://creativecommons.org/licenses/by-nc-sa/3.0/&#34;&gt;&lt;img alt=&#34;Creative Commons License&#34; style=&#34;border-width:0&#34; src=&#34;https://i.creativecommons.org/l/by-nc-sa/3.0/80x15.png&#34; /&gt;&lt;/a&gt;</copyright>
-    <lastBuildDate>Tue, 15 Aug 2017 17:14:12 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 30 Sep 2017 15:17:01 +0200</lastBuildDate>
     
 	<atom:link href="http://aquaponie.syx.fr/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Chauffage, filtration et poissons</title>
+      <link>http://aquaponie.syx.fr/post/filtre-et-chauffage/</link>
+      <pubDate>Sat, 30 Sep 2017 15:17:01 +0200</pubDate>
+      
+      <guid>http://aquaponie.syx.fr/post/filtre-et-chauffage/</guid>
+      <description>La filtration J&amp;rsquo;avais des problèmes de débit avec ma pompe de 4500l/h, je n&amp;rsquo;avais pas pris en compte le fait que je devrais remonter plus de 2m au dessus du niveau de l&amp;rsquo;eau et que donc j&amp;rsquo;avais un débit assez faible.</description>
+    </item>
     
     <item>
       <title>La serre est finie !</title>
@@ -48,8 +57,7 @@ J&amp;rsquo;y posterais :
       <pubDate>Fri, 02 Jun 2017 08:12:48 +0000</pubDate>
       
       <guid>http://aquaponie.syx.fr/equipement/</guid>
-      <description>Jardin  Une serre ACD R305H-B 11,35 m², acheté sur serres-et-abris d&amp;rsquo;une valeur de 2199€ Un récupérateur d&amp;rsquo;eau de pluie + Socle ACD acheté sur serres-et-abris pour 49€ Du feutre géotextile pour mon bassin acheté à leroy merlin pour 2x20,90 = 41,8€ Une bache EPDM pour le bassin acheté à Truffaut pour 179,95€  L&amp;rsquo;équipement ci dessus m&amp;rsquo;a donc couté : 2469,75
-Electronique  Raspberry pi 3, acheté sur amazon à 40,97€ NorthPada CE Alimentation Chargeur 5V 3A / 3000mA, acheté sur amazon à 7,99€ Carte Mémoire microSDHC SanDisk Ultra 16GB, acheté sur amazon à 9,52€ Adafruit HTU21D-F Temperature Humidity Sensor, acheté sur amazon à 21,90€ Raspberry Pi GPIO t-cobbler Kit avec Breakout Board amazon à 16,90€ Atlas Scientific EZO pH Circuit acheté sur amazon us à 38$ (attention aux frais de port + douane, de mémoire ça m&amp;rsquo;est revenu à 65€ environ) Électrode pH achetée sur amazon à 27,72€ Connecteur femelle BNC sur amazon à 20,24€  L&amp;rsquo;équipement ci dessus m&amp;rsquo;a donc couté : 210,24€</description>
+      <description>Jardin  Une serre ACD R305H-B 11,35 m², acheté sur serres-et-abris d&amp;rsquo;une valeur de 2199€ Un récupérateur d&amp;rsquo;eau de pluie + Socle ACD acheté sur serres-et-abris pour 49€ Du feutre géotextile pour mon bassin acheté à leroy merlin pour 2x20,90 = 41,8€ Une bache EPDM pour le bassin acheté à Truffaut pour 179,95€ De la tuyauterie diverses + gouttieres pour environ 500€ à Leroy Merlin Des poissons sur https://www.aquachange.fr/ pour 110€ Un set de purge acheté sur ManoMano à 20€ Pompe Jecod DCS 9000 acheté sur Amazon à 101€ Pompe Jecod DCS 4000 acheté sur Zohantus à 80€ Filtre SunSun CBF 350 + tuyaux + bacteries sur Wiltec à 110€  L&amp;rsquo;équipement ci dessus m&amp;rsquo;a donc couté : 3390,75</description>
     </item>
     
     <item>

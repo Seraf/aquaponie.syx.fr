@@ -77,3 +77,7 @@ Pendant les vacances, j'ai eu des [cropins noir d'encre](https://fr.wikipedia.or
 
 
 Bref, ça y'est, l'aventure va pouvoir commencer, j'ai commencé à cycler le Samedi 12 Aout mon bassin, à l'aide d'un [kit de démarrage Fishplant](http://www.boutiqueaquaponie.com/boutique/kit-demarrage-fishplant-bacteries-nourriture-bacteries/). Vivement que tout se mette en route, j'ai hâte !
+
+La présentation en vidéo (playlist):
+
+{{< youtube joIu6c0RckI >}}
